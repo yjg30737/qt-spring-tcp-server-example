@@ -15,7 +15,7 @@ The reason for using Kotlin-based Spring is that it is frequently used under the
 
 ## Preview
 ### Client
-<video controls src="Result.mp4" title="Title"></video>
+https://github.com/user-attachments/assets/27180622-7e39-4faf-af9b-d673acd05c99
 ### Server
 ![alt text](spring_console.png)
 
