@@ -1,3 +1,7 @@
+# qt-spring-tcp-server-example
+This project was created to understand and develop skills in Qt-based network communication, which is frequently used in medical device development that can be applied to advanced technologies that will help treat incurable diseases and extend lifespan, as well as embedded software that will advance in the future.
+The reason for using Kotlin-based Spring is that it is frequently used under the Korean e-Government Framework.
+
 ## How to Run
 1. git clone ~
 2. cd backend
@@ -14,3 +18,7 @@
 <video controls src="Result.mp4" title="Title"></video>
 ### Server
 ![alt text](spring_console.png)
+
+## Project Implementation Purpose
+- Prototype for implementing embedded software
+- Will be utilized in medical device software, drones, etc. in the future
